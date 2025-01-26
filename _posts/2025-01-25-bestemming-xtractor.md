@@ -9,7 +9,10 @@ tags: [Python, AI, Bestemming X, OCR, GPT-4o]
 
 ## *Bestemming X*
 
-**VTM** stuurt op zondagavond een groep onbekende Vlamingen op pad op een geblindeerde bus, richting een mysterieuze exitlocatie. Aan het einde van de aflevering moeten de kandidaten raden waar ze zijn - een lastige opgave, zo blijkt. Het is niet ongebruikelijk dat de kandidaten hun '**x**' aan de andere kant van Europa zetten. Zo vergisten in de eerste aflevering verschillende kandidaten de Griekse omgeving waar de bus halt had gehouden voor de Spaanse.
+**VTM** stuurt op zondagavond een groep onbekende Vlamingen op pad op een geblindeerde bus, richting een mysterieuze exitlocatie. Aan het einde van de aflevering moeten de kandidaten raden waar ze zijn - een lastige opgave, zo blijkt. Het is niet ongebruikelijk dat de kandidaten hun '**x**' aan de andere kant van Europa zetten. Zo vergisten in de eerste aflevering verschillende kandidaten de **Griekse** omgeving waar de bus halt had gehouden voor de **Spaanse**.
+
+![De Griekse bergen in Aflevering 1](/assets/bestemming1.png)
+_De Griekse bergen in Aflevering 1_
 
 De kijker wordt opgeroepen om vanuit de zetel gretig mee te zoeken. Zo kunnen kijkers op de website van **VTM** ook hun '**x**' plaatsen. Hier is echter één groot verschil: de kandidaten zitten op de bus zonder toegang tot het internet - de kijker, heeft wel alle **digitale tools** voorhanden, van facebookgroepen tot AI assistants. Dit maakt de opdracht duidelijk eenvoudiger: in het klassement zie je hoe duizenden kijkers vaak tot op enkele meters van de exitlocatie zitten.
 
@@ -18,6 +21,9 @@ Zowel de kijkers als de deelnemers krijgen af en toe de blinddoek opgelicht en m
 ## Het algoritme
 
 Dit weekend schreef ik een algoritme dat voor mij op zoek ging naar de exitlocaties van *Bestemming X*. Het algoritme kreeg toegang tot de ondertitels, die het omzette naar tekst. Die tekst werd vervolgens geanalyseerd door **GPT-4**, het taalmodel achter ChatGPT. Elke keer dat het algoritme 2500 tokens had verwerkt (lees: ongeveer 1900 woorden), stuurde het een verzoek naar het AI-model om de ondertitels te analyseren en een top 3 van mogelijke exitlocaties terug te geven. Concreet betekende dit dat er per **13 minuten** aflevering een verzoek werd verstuurd, wat neerkomt op **4 gokmomenten** per aflevering en dus in totaal **12 locaties**. In aflevering twee duurde het slechts **13 minuten** voordat deze aanpak de exitlocatie correct herkende als **Meteora, Griekenland**.
+
+![Na 13 minuten gokte het algoritme op Meteora](/assets/x1.png)
+_Na 13 minuten gokte het algoritme op Meteora_
 
 ## Valkuilen
 
