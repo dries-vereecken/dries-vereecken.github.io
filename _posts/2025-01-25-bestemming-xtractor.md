@@ -34,24 +34,24 @@ Hieronder vind je een overzicht van de evolutie van de gokken per aflevering, in
 
 ### Aflevering 1 - correcte locatie: **Athene, Griekenland**
 
-| Ranking | Gok 1 | Gok 2 | Gok 3 | Gok 4 |
+| | G1 | G2 | G3 | G4 |
 |:---:|:---|:---|:---|:---|
-| 🥇 | Griekenland, Thessaloniki | Griekenland, Thessaloniki | Spanje, Pyreneeën | Spanje, Puente Nuevo in Ronda |
-| 🥈 | Spanje, Pyreneeën | Spanje, Sierra Nevada | Andorra, Andorra la Vella | Andorra, Andorra la Vella |
-| 🥉 | Italië, Dolomieten | Oostenrijk, Tirol | Frankrijk, Perpignan | Portugal, Ponte Vasco da Gama |
+| 🥇 | Thessaloniki | Thessaloniki | Pyreneeën | Ronda |
+| 🥈 | Pyreneeën | Sierra Nevada | Andorra | Andorra |
+| 🥉 | Dolomieten | Tirol | Perpignan | Lissabon |
 
 ### Aflevering 2 - correcte locatie: **Meteora, Griekenland**
 
-| Ranking | Gok 1 | Gok 2 | Gok 3 | Gok 4 |
+| | G1 | G2 | G3 | G4 |
 |:---:|:---|:---|:---|:---|
-| 🥇 | Griekenland, Meteora | Griekenland, Meteora | Noord-Macedonië, Skopje | Griekenland, Meteora |
-| 🥈 | Hongarije, Balatonmeer | Bulgarije, Sofia | Griekenland, Meteora | Noord-Macedonië, Skopje |
-| 🥉 | Tsjechië, Adrspach-Teplice Rocks | Turkije, Istanbul | Albanië, Tirana | Prizren, Kosovo |
+| 🥇 | Meteora | Meteora | Skopje | Meteora |
+| 🥈 | Balatonmeer | Sofia | Meteora | Skopje |
+| 🥉 | Adrspach | Istanbul | Tirana | Kosovo |
 
 ### Aflevering 3 - correcte locatie: **Tirana, Albanië**
 
-| Ranking | Gok 1 | Gok 2 | Gok 3 | Gok 4 |
+| | G1 | G2 | G3 | G4 |
 |:---:|:---|:---|:---|:---|
-| 🥇 | Bulgarije, Plovdiv | Frankrijk, Pyreneeën | Albanië, Tirana | Albanië, Tirana |
-| 🥈 | Turkije, Istanbul | Spanje, Baskenland | Kosovo, Pristina | Turkije, Cappadocië |
-| 🥉 | Servië, Belgrado | Zwitserland, Jura | Noord-Macedonië, Skopje | Georgië, Kaukasus | 
+| 🥇 | Plovdiv | Pyreneeën | Tirana | Tirana |
+| 🥈 | Istanbul | Baskenland | Pristina | Cappadocië |
+| 🥉 | Belgrado | Jura | Skopje | Kaukasus | 
