@@ -1,11 +1,10 @@
 ---
-title: ""
+title: "Van ondertitels naar locatie: het algoritme dat *Bestemming X* voorspelde in 13 minuten"
 date: 2025-01-25 12:00:00 +0100
 categories: [Projects]
 tags: [Python, AI, Bestemming X, OCR, GPT-4o]
 ---
 
-# Van ondertitels naar locatie: het algoritme dat *Bestemming X* voorspelde in 13 minuten
 
 ## *Bestemming X*
 
