@@ -1,6 +1,6 @@
 ---
 title: ""
-date: 2025-01-26 12:00:00 +0100
+date: 2025-01-25 12:00:00 +0100
 categories: [Projects]
 tags: [Python, AI, Bestemming X, OCR, GPT-4o]
 ---
