@@ -29,27 +29,24 @@ Hieronder vind je een overzicht van de evolutie van de gokken per aflevering, in
 
 ### Aflevering 1 - correcte locatie: **Athene, Griekenland**
 
-| Gok | Locatie 1 | Locatie 2 | Locatie 3 |
-|-----|-----------|-----------|-----------|
-| 1 | Griekenland, Thessaloniki | Spanje, Pyreneeën | Italië, Dolomieten |
-| 2 | Griekenland, Thessaloniki | Spanje, Sierra Nevada | Oostenrijk, Tirol |
-| 3 | Spanje, Pyreneeën | Andorra, Andorra la Vella | Frankrijk, Perpignan |
-| 4 | Spanje, Puente Nuevo in Ronda | Andorra, Andorra la Vella | Portugal, Ponte Vasco da Gama |
+| Ranking | Gok 1 | Gok 2 | Gok 3 | Gok 4 |
+|:---:|:---|:---|:---|:---|
+| 🥇 | Griekenland, Thessaloniki | Griekenland, Thessaloniki | Spanje, Pyreneeën | Spanje, Puente Nuevo in Ronda |
+| 🥈 | Spanje, Pyreneeën | Spanje, Sierra Nevada | Andorra, Andorra la Vella | Andorra, Andorra la Vella |
+| 🥉 | Italië, Dolomieten | Oostenrijk, Tirol | Frankrijk, Perpignan | Portugal, Ponte Vasco da Gama |
 
 ### Aflevering 2 - correcte locatie: **Meteora, Griekenland**
 
-| Gok | Locatie 1 | Locatie 2 | Locatie 3 |
-|-----|-----------|-----------|-----------|
-| 1 | Griekenland, Meteora | Hongarije, Balatonmeer | Tsjechië, Adrspach-Teplice Rocks |
-| 2 | Griekenland, Meteora | Bulgarije, Sofia | Turkije, Istanbul |
-| 3 | Noord-Macedonië, Skopje | Griekenland, Meteora | Albanië, Tirana |
-| 4 | Griekenland, Meteora | Noord-Macedonië, Skopje | Prizren, Kosovo |
+| Ranking | Gok 1 | Gok 2 | Gok 3 | Gok 4 |
+|:---:|:---|:---|:---|:---|
+| 🥇 | Griekenland, Meteora | Griekenland, Meteora | Noord-Macedonië, Skopje | Griekenland, Meteora |
+| 🥈 | Hongarije, Balatonmeer | Bulgarije, Sofia | Griekenland, Meteora | Noord-Macedonië, Skopje |
+| 🥉 | Tsjechië, Adrspach-Teplice Rocks | Turkije, Istanbul | Albanië, Tirana | Prizren, Kosovo |
 
 ### Aflevering 3 - correcte locatie: **Tirana, Albanië**
 
-| Gok | Locatie 1 | Locatie 2 | Locatie 3 |
-|-----|-----------|-----------|-----------|
-| 1 | Bulgarije, Plovdiv | Turkije, Istanbul | Servië, Belgrado |
-| 2 | Frankrijk, Pyreneeën | Spanje, Baskenland | Zwitserland, Jura |
-| 3 | Albanië, Tirana | Kosovo, Pristina | Noord-Macedonië, Skopje |
-| 4 | Albanië, Tirana | Turkije, Cappadocië | Georgië, Kaukasus | 
+| Ranking | Gok 1 | Gok 2 | Gok 3 | Gok 4 |
+|:---:|:---|:---|:---|:---|
+| 🥇 | Bulgarije, Plovdiv | Frankrijk, Pyreneeën | Albanië, Tirana | Albanië, Tirana |
+| 🥈 | Turkije, Istanbul | Spanje, Baskenland | Kosovo, Pristina | Turkije, Cappadocië |
+| 🥉 | Servië, Belgrado | Zwitserland, Jura | Noord-Macedonië, Skopje | Georgië, Kaukasus | 
