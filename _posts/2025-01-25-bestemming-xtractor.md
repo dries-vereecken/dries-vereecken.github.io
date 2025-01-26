@@ -11,7 +11,7 @@ tags: [Python, AI, Bestemming X, OCR, GPT-4o]
 
 **VTM** stuurt op zondagavond een groep onbekende Vlamingen op pad op een geblindeerde bus, richting een mysterieuze exitlocatie. Aan het einde van de aflevering moeten de kandidaten raden waar ze zijn - een lastige opgave, zo blijkt. Het is niet ongebruikelijk dat de kandidaten hun '**x**' aan de andere kant van Europa zetten. Zo vergisten in de eerste aflevering verschillende kandidaten de **Griekse** omgeving waar de bus halt had gehouden voor de **Spaanse**.
 
-![De Griekse bergen in Aflevering 1](/assets/bestemming1.png)
+![De Griekse bergen in Aflevering 1](/assets/bestemming1.PNG)
 _De Griekse bergen in Aflevering 1_
 
 De kijker wordt opgeroepen om vanuit de zetel gretig mee te zoeken. Zo kunnen kijkers op de website van **VTM** ook hun '**x**' plaatsen. Hier is echter één groot verschil: de kandidaten zitten op de bus zonder toegang tot het internet - de kijker, heeft wel alle **digitale tools** voorhanden, van facebookgroepen tot AI assistants. Dit maakt de opdracht duidelijk eenvoudiger: in het klassement zie je hoe duizenden kijkers vaak tot op enkele meters van de exitlocatie zitten.
